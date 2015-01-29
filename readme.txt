@@ -32,3 +32,8 @@ click commands ->pull
 click the top right button to manage remotes
 pick any name you will remember
 url = https://github.com/StephanieSullivan/Sandbox
+
+*github account (optional)
+go to github.com and make an account if you want
+you should be able to access my github account from your github account 
+or from git extensions on your computer
