@@ -1,1 +1,3 @@
 a new file created in Master after the first branch split off.
+
+here is a change that should only apply to sandboxNewBranch2 (unless someone merges this branch back into master).
