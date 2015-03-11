@@ -1,4 +1,3 @@
 sandbox file 1
 
 *here is a file with some text in it.
-i add a new line
